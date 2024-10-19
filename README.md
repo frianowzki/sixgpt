@@ -12,7 +12,7 @@
 - #### 100GB Disk Space
 #
 
-- #### Request faucet first from here: https://faucet.vana.org/satori
+- #### Request faucet first from here: https://faucet.vana.org/moksha
 
 - #### Update and install Docker 
 
@@ -35,7 +35,7 @@ bash <(curl -s https://raw.githubusercontent.com/frianowzki/sixgpt/main/import.s
 #
 *Change $VANA_PRIVATE_KEY with your private keys*
 
-*Change $VANA_NETWORK with satori*
+*Change $VANA_NETWORK with moksha*
 #
 - #### Now add this 
 ```
